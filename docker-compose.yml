@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin123
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - marvel-network
+
+  backend:
+    build:
+      context: ./Front_Vine/marvel-api
+      dockerfile: Dockerfile
+    container_name: marvel-backend
+    environment:
+      - MONGO_URI=mongodb://admin:admin123@mongodb:27017/marveldb?authSource=admin
+      - MONGO_DB=marveldb
+      - PORT=8080
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mongodb
+    networks:
+      - marvel-network
+
+  frontend:
+    build:
+      context: ./Back_Spring/marvel-frontend
+      dockerfile: Dockerfile
+    container_name: marvel-frontend
+    environment:
+      - VITE_API_URL=http://backend:8080/api
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    networks:
+      - marvel-network
+
+networks:
+  marvel-network:
+    driver: bridge
+
+volumes:
+  mongodb_data:

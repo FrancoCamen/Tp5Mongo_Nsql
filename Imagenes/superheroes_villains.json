@@ -1,0 +1,541 @@
+[
+  {
+    "name": "Aneka",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Ant-Man",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Aquaman",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Bane",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Batman",
+    "realName": "Bruce Wayne",
+    "debutYear": 1939,
+    "house": "DC",
+    "biography": "Vigilante de Gotham que combate el crimen tras presenciar el asesinato de sus padres.",
+    "equipment": "Batarangs, Batmóvil",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Black Adam",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Black Panther",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Black Widow",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Brainiac",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Bucky",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Captain America",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Captain Marvel",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Daredevil",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Darkseid",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Deadpool",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Deathstroke",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Doctor Octopus",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Doctor Strange",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Flash",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Green Goblin",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Green Lantern",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Groot",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Hawkeye",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Hela",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Hulk",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Invincible",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Iron Man",
+    "realName": "Tony Stark",
+    "debutYear": 1963,
+    "house": "Marvel",
+    "biography": "Millonario y genio inventor que lucha contra el mal con su armadura.",
+    "equipment": "Armadura de alta tecnología",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Joker",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Killmonger",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Kingpin",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Lex Luthor",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Loki",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Magneto",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Martian Manhunter",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Nakia",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Namor",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Riddler",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Robin",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Rocket Raccoon",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Scarlet Witch",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Shuri",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Spider-Man",
+    "realName": "Peter Parker",
+    "debutYear": 1962,
+    "house": "Marvel",
+    "biography": "Adolescente con poderes arácnidos tras ser mordido por una araña radiactiva.",
+    "equipment": "Web-shooters",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Superman",
+    "realName": "Clark Kent",
+    "debutYear": 1938,
+    "house": "DC",
+    "biography": "Extraterrestre de Krypton que protege la Tierra con sus habilidades sobrehumanas.",
+    "equipment": "Capa, superpoderes",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Thanos",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Thor",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "DC",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Ultron",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Venom",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "White Vision",
+    "realName": "Desconocido",
+    "debutYear": 0,
+    "house": "Marvel",
+    "biography": "Biografía no disponible.",
+    "equipment": "Desconocido",
+    "imageIds": [
+      "placeholder"
+    ]
+  },
+  {
+    "name": "Wonder Woman",
+    "realName": "Diana Prince",
+    "debutYear": 1941,
+    "house": "DC",
+    "biography": "Guerrera amazona enviada al mundo humano como embajadora de paz.",
+    "equipment": "Lazo de la verdad, brazaletes mágicos",
+    "imageIds": [
+      "placeholder"
+    ]
+  }
+]
